@@ -1,4 +1,4 @@
 {
   "name": "mongoose-timestamp",
-  "main": "src/index.d.ts"
+  "main": "index.d.ts"
 }
